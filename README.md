@@ -1,5 +1,4 @@
 # Reactic
----------------
 
 Reactic is a boilerplate ionic app set up with tabs in React.
 
